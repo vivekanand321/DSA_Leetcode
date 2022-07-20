@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Dynamic Programming",
-        "BS&BST"
+        "BS&BST",
+        "Stack"
     ]
 }

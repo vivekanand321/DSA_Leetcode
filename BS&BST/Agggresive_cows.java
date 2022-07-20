@@ -21,7 +21,7 @@ class Aggressive_cows
         return false;
     }
     public static void main(String[] args) {
-        int[] stalls={1,2,4,8,13};
+        int[] stalls={1,2,4,8,9};
         int cows=3;
         Arrays.sort(stalls);
         int n=stalls.length;
