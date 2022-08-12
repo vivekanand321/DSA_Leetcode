@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "Stack",
+        "Map&Greedy Algorithm",
         "Dynamic Programming",
         "BS&BST",
-        "Map&Greedy Algorithm"
+        "Tree"
     ]
 }

@@ -1,4 +1,3 @@
-import javax.sound.sampled.SourceDataLine;
 
 public class book_allcation {
     private static boolean canreadall(int[] arr,int maxnopage,int noofsudent)

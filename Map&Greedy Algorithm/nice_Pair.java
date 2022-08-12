@@ -26,6 +26,7 @@ public class nice_Pair {
             else
             {
                 int l=mp.get(res);
+                
                 ans=ans+l;
                 l++;
                 
